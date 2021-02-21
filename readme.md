@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cjehmqoxu81nau6y?svg=true)](https://ci.appveyor.com/project/LadyBag/autolesson2task1)
